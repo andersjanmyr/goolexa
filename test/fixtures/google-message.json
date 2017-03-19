@@ -1,0 +1,36 @@
+{
+  "id": "e0863aa1-76be-47f8-b986-2ea913030eb6",
+  "timestamp": "2017-03-19T19:25:41.505Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "save message for Nina",
+    "action": "AddNoteAction",
+    "actionIncomplete": false,
+    "parameters": {
+      "Name": "Nina"
+    },
+    "contexts": [],
+    "metadata": {
+      "intentId": "f654a7f3-cd51-4d66-a850-8535102aeef8",
+      "webhookUsed": "false",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "AddNote"
+    },
+    "fulfillment": {
+      "speech": "",
+      "messages": [
+        {
+          "type": 0,
+          "speech": ""
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "10893294-e7dc-4747-9775-e780a58f545b"
+}

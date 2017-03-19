@@ -1,0 +1,23 @@
+{
+  "name": "goolexa",
+  "version": "1.0.0",
+  "description": "A library for unifying Alexa and Google Home skills.",
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:andersjanmyr/goolexa.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "keywords": [
+    "alexa",
+    "amazon",
+    "echo",
+    "google",
+    "home",
+    "api.ai"
+  ],
+  "author": "Anders Janmyr <anders@janmyr.com> (http://anders.janmyr.com/)",
+  "license": "ISC"
+}
